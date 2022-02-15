@@ -1,3 +1,5 @@
-from flask import Flask
+# not running naything in blueprints init
 
-app = Flask(__name__)
+# from flask import Flask
+
+# app = Flask(__name__)
